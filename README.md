@@ -4,7 +4,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/KeithKhaotic?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQnjgktI9jXwmtv3Hp3tefg?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/KeithKhaotic/KeithKhaotic.github.io)
-##$ What is this?
+
+
+## What is this?
+
 The Noob Vs. Pro Website challenge, is a challenge based between, [Blanks](https://github.com/tball1) and [Keith Khaotic](https://github.com/KeithKhaotic). This challenge will be featured on the [PGWECN YouTube channel](https://www.youtube.com/channel/UCQnjgktI9jXwmtv3Hp3tefg/videos).
 
 ## Both Blanks and Keith Khaotic will be limited to the following languages for the challenge:
