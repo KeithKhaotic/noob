@@ -7,7 +7,7 @@
 ##$ What is this?
 The Noob Vs. Pro Website challenge, is a challenge based between, [Blanks](https://github.com/tball1) and [Keith Khaotic](https://github.com/KeithKhaotic). This challenge will be featured on the [PGWECN YouTube channel](https://www.youtube.com/channel/UCQnjgktI9jXwmtv3Hp3tefg/videos).
 
-Both Blanks and Keith Khaotic will be limited to the following languages for the challenge:
+## Both Blanks and Keith Khaotic will be limited to the following languages for the challenge:
 
 <img src="https://github.com/KeithKhaotic/KeithKhaotic/blob/images/image_2022-06-24_175949532.png?raw=true"
 width="50"
