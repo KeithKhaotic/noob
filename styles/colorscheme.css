@@ -1,0 +1,54 @@
+html {
+    background-color: #212121;
+}
+
+
+
+
+
+
+
+/* NAVBAR COLOR SCHEME */
+
+    /* Regular text color for all entries on navigation bar */
+    .nav li.entry {
+        color:white;
+    }
+
+    /* Background color for any entry in the navigation bar */
+    .nav li.entry:hover {
+        background-color: #388E3C;
+    }
+
+    /* Navigation bar background color */
+    .nav {
+        background-color: #43A047;
+    }
+
+
+
+    /* Color for links that are being hovered over*/
+    .nav li.entry a:hover {
+        color: #80DEEA;
+    }
+
+    /* Link text color when unhovered */
+    .nav li.entry a {
+        color:white;
+    }
+
+
+/* NAVBAR COLOR SCHEME */
+
+/* CARD COLOR SCHEME */
+
+.card {
+    color: white;
+    font-size: large;
+
+    background-color: #43A047;
+}
+
+.card h4.title {
+    color:white;
+}
